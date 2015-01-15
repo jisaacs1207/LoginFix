@@ -1,0 +1,7 @@
+name: LoginFix
+main: io.github.jisaacs1207.LoginFix.LoginFix
+version: 1.0
+author: jisaacs1207
+website: http://fivekingdoms.net
+description: >
+             Fixes login stinkiness.

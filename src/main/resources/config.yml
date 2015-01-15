@@ -1,0 +1,6 @@
+## Remember to change aaaamrdefault to the default spawn location!
+aaaamrdefault:
+  world: world
+  x: 60
+  y: 60
+  z: 60
